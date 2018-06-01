@@ -1,0 +1,24 @@
+.openfin-chrome-close {
+    -webkit-app-region: no-drag;
+    background-color: white;
+    float: right;
+}
+
+.openfin-chrome-close:hover {
+    background-color: red;
+}
+
+.openfin-chrome-min-max {
+    -webkit-app-region: no-drag;
+    background-color: white;
+    float: right;
+}
+
+.openfin-chrome-min-max:hover {
+    background-color: grey;
+}
+
+.openfin-chrome-control-bar {
+    height: 24px;
+    -webkit-app-region: drag;
+}
